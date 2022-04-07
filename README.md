@@ -1,2 +1,2 @@
 # jest-mocks-react
-Usefull mocks for a quick lookup
+Usefull jest mocks for a quick lookup
